@@ -8,8 +8,8 @@
 
 I bridge the gap between cutting-edge AI research and scalable enterprise execution. With over 9 years of experience leading AI initiatives and upskilling Fortune 500 workforces (including Bain & Co., EY, Genpact, and EXL), I specialize in transforming complex business challenges into high-performance, sustainable AI solutions.
 
-- 🔭 **Current Focus:** Advanced Agentic AI Frameworks, Modular AI Ecosystems (MCP & A2A), Enterprise Knowledge Graphs, and Small Language Model (SLM) Optimization.
-- 💡 **Core Philosophy:** Driving algorithmic efficiency and building sustainable, eco-friendly enterprise tech ecosystems.
+- 🔭 **Current Focus:** Advanced Agentic AI Frameworks, Modular AI Ecosystems (MCP & A2A), Enterprise Knowledge Graphs, and LLM Engineering.
+- 💡 **Core Philosophy:** Driving algorithmic efficiency and mentoring high performing teams for enterprise-wide AI adoption and sustainability.
 - 🎓 **Education & Enablement:** MCA (Honors) | Product & Curriculum Designer | Formally trained thousands of global professionals.
 
 ---
