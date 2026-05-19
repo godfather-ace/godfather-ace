@@ -1,16 +1,16 @@
 # Hi there, I'm Sachin Tripathi 👋 
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=godfather-ace&label=Profile%20views&color=0e76a8&style=flat-block" alt="Profile Views" />
 </p>
 
 ### 🚀 AI Research Leader | Enterprise GenAI Architect | Expert Corporate Trainer
 
-I bridge the gap between cutting-edge AI research and scalable enterprise execution[cite: 1]. With over 9 years of experience leading AI initiatives and upskilling Fortune 500 workforces (including Bain & Co., EY, Genpact, and EXL), I specialize in transforming complex business challenges into high-performance, sustainable AI solutions[cite: 1, 2].
+I bridge the gap between cutting-edge AI research and scalable enterprise execution. With over 9 years of experience leading AI initiatives and upskilling Fortune 500 workforces (including Bain & Co., EY, Genpact, and EXL), I specialize in transforming complex business challenges into high-performance, sustainable AI solutions.
 
-- 🔭 **Current Focus:** Advanced Agentic AI Frameworks, Modular AI Ecosystems (MCP & A2A), Enterprise Knowledge Graphs, and Small Language Model (SLM) Optimization[cite: 2].
+- 🔭 **Current Focus:** Advanced Agentic AI Frameworks, Modular AI Ecosystems (MCP & A2A), Enterprise Knowledge Graphs, and Small Language Model (SLM) Optimization.
 - 💡 **Core Philosophy:** Driving algorithmic efficiency and building sustainable, eco-friendly enterprise tech ecosystems.
-- 🎓 **Education & Enablement:** MCA (Honors) | Product & Curriculum Designer | Formally trained thousands of global professionals[cite: 1, 2].
+- 🎓 **Education & Enablement:** MCA (Honors) | Product & Curriculum Designer | Formally trained thousands of global professionals.
 
 ---
 
@@ -26,7 +26,7 @@ I bridge the gap between cutting-edge AI research and scalable enterprise execut
 
 ### 🛠️ Technical Toolkit (Extensive Experience & Training Portfolio)
 
-Here is a comprehensive breakdown of the languages, frameworks, and methodologies I have implemented in enterprise architectures or taught across global training tracks[cite: 1, 2]:
+Here is a comprehensive breakdown of some programming languages, frameworks, and methodologies I have implemented in enterprise architectures or taught across global training tracks:
 
 #### 🤖 Generative AI & Agentic Frameworks
 <p align="left">
