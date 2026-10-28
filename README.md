@@ -88,12 +88,7 @@ Here is a comprehensive breakdown of some programming languages, frameworks, and
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=godfather-ace&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=godfather-ace&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" />
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=godfather-ace&show_icons=true&theme=default&hide_border=true" alt="Sachin's GitHub Stats" width="48%" />
-  </picture>
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=godfather-ace&theme=github-dark-blue&hide_border=true&background=0d1117" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=godfather-ace&theme=default&hide_border=true&background=ffffff" />
