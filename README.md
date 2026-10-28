@@ -10,7 +10,7 @@ I bridge the gap between cutting-edge AI research and scalable enterprise execut
 
 - 🔭 **Current Focus:** Advanced Agentic AI Frameworks, Modular AI Ecosystems (MCP & A2A), Enterprise Knowledge Graphs, and LLM Engineering.
 - 💡 **Core Philosophy:** Driving algorithmic efficiency and mentoring high performing teams for enterprise-wide AI adoption and sustainability.
-- 🎓 **Education & Enablement:** MCA (Honors) | Product & Curriculum Designer | Formally trained thousands of global professionals.
+- 🎓 **Education & Enablement:** MCA (with Honors) | Product & Curriculum Designer | Formally trained thousands of global professionals.
 
 ---
 
